@@ -1,4 +1,4 @@
-# Weather-Forcast-App
+# Weather-Forecast-App
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -9,7 +9,7 @@
     </li>
     <li><a href="###installation">Installation</a></li>
     <li><a href="###features">Features of the project</a></li>
-    <li><a href="###working-link">Working Link Github Pages</a></li>
+    <li><a href="###working-link">Working Link Github Pages and Netlify</a></li>
     
   </ol>
 
@@ -43,5 +43,6 @@ and fire up the Local Development server using [Live Server extension](https://m
 * it will give you  alert if city name not matched with api  data.
 
 
-### Working Link Github Pages
-https://anmolyadav1402.github.io/weather-forecast-app/ 
+### Working Link Github Pages and Netlify
+https://anmolyadav1402.github.io/weather-forecast-app/ <br>
+https://weather-forecast-anmol.netlify.app/
