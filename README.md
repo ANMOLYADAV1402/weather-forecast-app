@@ -8,6 +8,8 @@
       </ul>
     </li>
     <li><a href="###installation">Installation</a></li>
+    <li><a href="###features">Features of the project</a></li>
+    <li><a href="###working-link">Working Link Github Pages</a></li>
     
   </ol>
 
@@ -31,4 +33,15 @@ To get a local copy up and running, just Clone the repo
    git clone https://github.com/ANMOLYADAV1402/weather-forecast-app
    ```
 and fire up the Local Development server using [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-   
+
+### Features of the project
+
+* It provide dynamic weather data like temperature, humidity etc.
+* Dynamic background images change according to the place
+* It provide basic information like feels like temperature,humidity,pressure,wind speed.
+* It will not accept empty input.
+* it will give you  alert if city name not matched with api  data.
+
+
+### Working Link Github Pages
+https://anmolyadav1402.github.io/weather-forecast-app/ 
